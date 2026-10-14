@@ -95,7 +95,7 @@ The user enters a dataset once and can then summarize it, filter it, sort it, an
 ---
 
 ## 🖥️ Output
-[!Program Output](output.png)
+![Program Output](output.png)
 
 ---
 
